@@ -1,4 +1,4 @@
-
+IPVanish custom Client: auto-connect & VPN-over-TOR is the best IPVanish client, featuring auto-connect and VPN-over-TOR. Secure, fast, and optimized for privacy.
 
 
 
